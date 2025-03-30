@@ -5,7 +5,7 @@ A command-line tool to encrypt and decrypt files using asymmetric and symmetric 
 ---
 ### Table of Contents
 - [Description](#description)
-- [Installation](#dnstallation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Possible Improvements](#possible-improvements)
